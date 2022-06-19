@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MiniAudioTest": {
+      "commandName": "Project",
+      "commandLineArgs": "./TestAudio/test.mp3"
+    }
+  }
+}
